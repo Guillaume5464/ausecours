@@ -9,7 +9,7 @@ env:
 
 jobs:
   bide:
-    runs-on: ubunti-latest
+    runs-on: ubuntu-latest
     steps:
 
       - name: Just for test1
