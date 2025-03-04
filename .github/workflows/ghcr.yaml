@@ -9,7 +9,7 @@ env:
 
 jobs:
   bide:
-    runs-out: ubunti-latest
+    runs-on: ubunti-latest
     steps:
 
       - name: Just for test1
