@@ -29,6 +29,6 @@ jobs:
 
   Chelouterie:
     needs: [Biderie]
-    uses: ./.github/workflows/deploy.yaml
+    uses: ./.github/workflows/canary.yaml
     secrets: inherit
 
