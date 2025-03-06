@@ -30,7 +30,7 @@ jobs:
 
     env:
       BDD_HOST: 127.0.0.1
-      BDD_HOST: test
+      BDD_NAME: test
       BDD_USER: test
       BDD_PASS: test
 
